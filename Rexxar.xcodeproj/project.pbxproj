@@ -608,6 +608,7 @@
 					};
 					98B47B111BF1E0F20087735C = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = KWVYNK7KYH;
 						LastSwiftMigration = 1010;
 					};
 					B90EBEBB1BFEAA830055D477 = {
@@ -620,6 +621,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -906,6 +908,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				DEVELOPMENT_TEAM = KWVYNK7KYH;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"DSK_WIDGET=1",
@@ -914,7 +917,7 @@
 				INFOPLIST_FILE = RexxarDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.douban.RexxarDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sixpence.RexxarDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "RexxarDemo/Bridge-Header.h";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
@@ -927,10 +930,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				DEVELOPMENT_TEAM = KWVYNK7KYH;
 				INFOPLIST_FILE = RexxarDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.douban.RexxarDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sixpence.RexxarDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "RexxarDemo/Bridge-Header.h";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
